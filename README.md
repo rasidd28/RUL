@@ -11,7 +11,7 @@ This project focuses on predicting the **Remaining Useful Life (RUL)** of jet en
 - **Train Trajectories**: 100 engines
 - **Test Trajectories**: 100 engines
 - **Operating Conditions**: 1
-- **Fault Modes**: 1 (HPC Degradation)
+- **Fault Modes**: 1 
 
 Each engine runs until failure. The objective is to predict how many cycles remain before each engine fails.
 
